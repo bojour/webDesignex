@@ -1,0 +1,33 @@
+body{
+    background-image: url(../Arri%C3%A8re-plan_herbe.jpg);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+div{
+    background-color: white;
+}
+.col-md-2{
+    
+    border-style:double;
+}
+
+div{
+    background-color: white;
+}
+h5{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 17px; 
+}
+#cadre{
+    border-style:double;
+    background-color: ghostwhite
+}
+.container-fluid{
+    border-style: solid;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
